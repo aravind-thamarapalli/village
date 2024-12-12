@@ -40,8 +40,8 @@ const Landmarks = () => {
           ))}
         </div>
         <button
-        className="hero-link"
-        onClick={() => (window.location.href = "/hero")}>
+          className="hero-link"
+          onClick={() => (window.location.href = "/village/")}>
           Go to Hero Page
         </button>
       </div>

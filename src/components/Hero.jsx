@@ -14,10 +14,10 @@ const Hero = () => {
           <p>Discover the beauty and charm of our beloved village.</p>
 
           <nav className="hero-nav">
-            <a href="/landmarks" className="hero-link">
+            <a href="/village/landmarks" className="hero-link">
               Landmarks
             </a>
-            <a href="/about" className="hero-link">
+            <a href="/village/about" className="hero-link">
               About
             </a>
           </nav>

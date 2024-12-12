@@ -32,7 +32,7 @@ const About = () => {
         </div>
         <button
           className="hero-link"
-          onClick={() => (window.location.href = "/hero")}
+          onClick={() => (window.location.href = "/village/")}
         >
           Go to Hero Page
         </button>
